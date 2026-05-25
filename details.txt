@@ -1,0 +1,1 @@
+Initial details for the MLOps project.
