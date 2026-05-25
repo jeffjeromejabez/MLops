@@ -1,2 +1,2 @@
-Initial details for the MLOps project.
+Conflict demo text from the main branch.
 Updated text added on the main-new branch.
