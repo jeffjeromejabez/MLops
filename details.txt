@@ -1,1 +1,2 @@
 Initial details for the MLOps project.
+Updated text added on the main-new branch.
