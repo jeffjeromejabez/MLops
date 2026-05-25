@@ -1,2 +1,3 @@
 Conflict demo text from the main branch.
+Conflict demo text from the conflict-demo branch.
 Updated text added on the main-new branch.
